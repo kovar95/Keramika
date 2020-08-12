@@ -9,7 +9,7 @@ const Footer = props => {
             <h3>Moj keramičar</h3>
             <p>
               Stojimo vam na rapolaganju za svaki vid saradnje. Vaša zamisao -
-              naša realizacija. Pouzdanost u radu već 10 godina.
+              naša realizacija. Pouzdanost u radu već 12 godina.
             </p>
           </section>
           <section>
@@ -21,12 +21,12 @@ const Footer = props => {
                 </a>
               </li>
               <li>
-                <a href="http://facebook.com/mojkeramicar">
+                <a href="https://web.facebook.com/moj.keramicar">
                   <i className="icon fa-facebook">&nbsp;</i>Facebook
                 </a>
               </li>
               <li>
-                <a href="http://instagram.com/mojkeramicar">
+                <a href="https://www.instagram.com/mojkeramicar/">
                   <i className="icon fa-instagram">&nbsp;</i>Instagram
                 </a>
               </li>

@@ -94,11 +94,16 @@ const Services = props => {
                   <a href="!#" className="icon">
                     <img src={wall} alt="" />
                   </a>
-                  <h3>Poravnavanje Zidova i Podova</h3>
+                  <h3>Poravnavanje Zidova i Podova nivelir masom</h3>
                 </header>
                 <p>
-                  Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing
-                  gravida odio porttitor sem non mi integer non faucibus.
+                  Površina betonskog poda je obično neravna, što komplikuje
+                  postavljanje keramičkih pločica, tepiha, plastičnih podova,
+                  itd. Neophodno je da se napravi ravna, glatka i čvrsta
+                  površina, na koju se može uspešno postaviti bilo koja vrsta
+                  podne obloge. Ovakva površina može ujedno da bude i završni
+                  pod u prostorijama kao što su podrumi, kućne ostave, predvorja
+                  i sl.
                 </p>
               </div>
             </section>
@@ -111,8 +116,12 @@ const Services = props => {
                   <h3>Adaptacija Kupatila</h3>
                 </header>
                 <p>
-                  Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing
-                  gravida odio porttitor sem non mi integer non faucibus.
+                  Reč je o poslovima koji se ne obavljaju često ili svake
+                  godine, kao što to činimo sa osvežavanjem zidova ili
+                  ubacivanjem pojedinih delova nameštaja. Sa kvalitetnim i
+                  funkcionalnim kupatilom možete biti mirni dugi niz godina. Iz
+                  tog razloga za uređenje ovog dela životnog prostora neophodna
+                  je ogromna pažnja.
                 </p>
               </div>
             </section>

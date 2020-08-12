@@ -11,15 +11,15 @@ const Contact = props => {
 
         <div className="contact">
           <i className="icon fa-phone fa-4x"></i>
-          <a href="tel:+381641346483">+381641346483</a>
+          <a href="tel:+381658487755">+381658487755</a>
         </div>
         <div className="contact">
           <i className="icon fa-instagram fa-4x"></i>
-          <a href="http://instagram.com/mojkeramicar">mojkeramicar</a>
+          <a href="https://www.instagram.com/mojkeramicar/">mojkeramicar</a>
         </div>
         <div className="contact">
           <i className="icon fa-facebook fa-4x"></i>
-          <a href="http://facebook.com/mojkeramicar">Moj keramicar</a>
+          <a href="https://web.facebook.com/moj.keramicar">Moj keramicar</a>
         </div>
       </div>
     </section>

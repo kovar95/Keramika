@@ -1,5 +1,4 @@
 import React from 'react';
-import banner from '../images/banner.mp4';
 
 const Banner = props => {
   return (
@@ -8,7 +7,6 @@ const Banner = props => {
         <h1>MOJ KERAMIČAR</h1>
         <p>Neka lepota naših pločica i kamena ulepša vaš život!</p>
       </div>
-      {/* <video autoPlay loop muted playsInline src={banner}></video> */}
     </section>
   );
 };

@@ -10,71 +10,78 @@ const Prices = props => {
         <table>
           <tbody>
             <tr>
-              <th colSpan="2">Cene usluga postavljanja keramičkih pločica</th>
+              <th colSpan="2">Keramičarski Radovi, Adaptacija kupatila</th>
             </tr>
             <tr>
-              <td>Postavljanje pločica</td>
-              <td>od 8 € do 10 € - m2</td>
+              <td>Postavljanje keramičkih i granitnih pločica</td>
+              <td>9-12 € / m2</td>
+            </tr>
+            <tr>
+              <td>Postavljanje mermernih i granitnih ploča (2-3cm debljine)</td>
+              <td>12-14 € / m2</td>
+            </tr>
+            <tr>
+              <td>Postavljanje ukrasnog prirodnog kamena</td>
+              <td>15-25 € / m2</td>
             </tr>
             <tr>
               <td>Stepenice</td>
-              <td>od 8 € do 10 € - 1 dužni metar</td>
+              <td>8-12 € / m</td>
             </tr>
             <tr>
               <td>Cokle</td>
-              <td>od 2 € do 2.5 € - 1 dužni metar</td>
+              <td>2-4 € / m</td>
             </tr>
             <tr>
               <td>Gerovanje</td>
-              <td>od 5 € do 8 € - 1 dužni metar</td>
-            </tr>
-            <tr>
-              <td>Prepravke tuđih radova</td>
-              <td>pozovite nas</td>
-            </tr>
-            <tr>
-              <td>Skidanje pločica</td>
-              <td>od 1.5 € do 2 € - m2</td>
+              <td>4-6 € / m</td>
             </tr>
             <tr>
               <td>Postavljanje mozaika</td>
-              <td>od 13 € do 16 € - m2</td>
+              <td>20-25 € / m2</td>
             </tr>
             <tr>
-              <td>Postavljanje dekorativnog kamena</td>
-              <td>od 10 € do 16 € - m2</td>
-            </tr>
-            <tr>
-              <td>Napomena</td>
               <td>
-                U cenu nije uračunato sledeće : lepak za pločice, keramika,
-                kamen, fug masa
+                Rušenje starih plocica u kupatilu sa demontažom sanitarija
               </td>
+              <td>80-120 € / paušalno</td>
             </tr>
             <tr>
-              <th colSpan="2">
-                Cene usluga postavljanja granita i granitnih pločica
-              </th>
+              <td>Iznošenje, utovar i odvoženje šuta na deponiju</td>
+              <td>30-80 / paušalno</td>
             </tr>
             <tr>
-              <td>Postavljanje svih vrsta granita</td>
-              <td>pozovite nas</td>
+              <td>Vodoinstalaterski radovi sa montažom sanitarija</td>
+              <td>250-350 € / paušalno</td>
             </tr>
             <tr>
-              <th colSpan="2">
-                Cene usluga ugradnje mermera i mermernih pločica
-              </th>
+              <td>Električarski radovi</td>
+              <td>70-100 € / paušalno</td>
             </tr>
             <tr>
-              <td>Postavljanje mermernih ploča</td>
-              <td>pozovite nas</td>
+              <td>
+                Popunjavanje neravnina i rupa na zidovima i priprema za
+                postavljanje keramike
+              </td>
+              <td>70-100 € / paušalno</td>
             </tr>
             <tr>
-              <th colSpan="2">Cene usluga ugradnje prirodnog kamena</th>
+              <td>Hidroizolacija</td>
+              <td>70-100 € / paušalno</td>
             </tr>
             <tr>
-              <td>Ugradnja prirodnog kamena svih vrsta i oblika</td>
-              <td>od 8 € do 18 € - m2</td>
+              <td>Molerski radovi</td>
+              <td>60-90 € / paušalno</td>
+            </tr>
+            <tr>
+              <td>
+                Po potrebi malterisanje celog kupatila i izrada ravnajuceg sloja
+              </td>
+              <td>120-150 € / paušalno</td>
+            </tr>
+            <tr>
+              <td>Parketarski radovi</td>
+              <td>5-30 € / m2</td>
             </tr>
             <tr>
               <th colSpan="2">Cene ostalih usluga</th>
