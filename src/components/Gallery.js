@@ -20,7 +20,6 @@ import pic18 from '../images/keramika/18.jpg';
 import pic19 from '../images/keramika/19.jpg';
 import pic20 from '../images/keramika/20.jpg';
 import pic21 from '../images/keramika/21.jpg';
-import spinner from '../images/loader.gif';
 
 const Gallery = props => {
   const pictures = [
@@ -47,30 +46,6 @@ const Gallery = props => {
     pic21,
   ];
 
-  const descriptions = [
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-    'Ovo su keramicke plocice',
-  ];
-
   const [preview, setPreview] = useState(null);
 
   const previousPic = () => {
@@ -94,8 +69,7 @@ const Gallery = props => {
       <h1>Galerija</h1>
       {pictures.map((pic, index) => (
         <div className="image" key={index} onClick={e => setPreview(index)}>
-          <span>{descriptions[index]}</span>
-          <img src={pic ? pic : spinner} alt="" />
+          <img src={pic} alt="" />
         </div>
       ))}
 
@@ -108,7 +82,6 @@ const Gallery = props => {
               onClick={e => previousPic()}
             >{`<`}</span>
             <span className="arrow-right" onClick={e => nextPic()}>{`>`}</span>
-            <span className="desc">{descriptions[preview]}</span>
           </div>
           <span
             className="close-preview"
