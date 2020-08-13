@@ -1,5 +1,6 @@
-# redux_basic
-Basic structure of React Redux App
+# mojkeramicar
+
+Website for flooring and tiling services
 
 open your terminal
 npm install
