@@ -16,7 +16,7 @@ const Footer = props => {
             <h4>Pronađite nas na društvenim mrežama</h4>
             <ul className="plain">
               <li>
-                <a href="tel:+381641346483">
+                <a href="tel:+381658487755">
                   <i className="icon fa-phone">&nbsp;</i>Phone
                 </a>
               </li>
